@@ -1,0 +1,381 @@
+{
+  "total_records": 55,
+  "matched": 46,
+  "exceptions": 9,
+  "match_rate_pct": 83.64,
+  "ai_calls_made": 1,
+  "runtime_seconds": 0.005,
+  "matched_detail": [
+    {
+      "txn_id": "TXN1001",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1002",
+      "method": "tolerance",
+      "amount_diff": 0.0,
+      "date_diff": 1
+    },
+    {
+      "txn_id": "TXN1004",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1006",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1008",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1009",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1010",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1011",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1012",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1013",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1014",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1016",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1017",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1018",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1020",
+      "method": "ai_judgment",
+      "reason": "[fallback heuristic, no API key set] amount_diff=15.00, date_diff=0d -> within manual bounds"
+    },
+    {
+      "txn_id": "TXN1021",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1023",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1025",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1026",
+      "method": "tolerance",
+      "amount_diff": 3.75,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1027",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1028",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1029",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1030",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1031",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1032",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1033",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1034",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1035",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1036",
+      "method": "tolerance",
+      "amount_diff": 0.0,
+      "date_diff": 1
+    },
+    {
+      "txn_id": "TXN1038",
+      "method": "tolerance",
+      "amount_diff": 0.0,
+      "date_diff": 1
+    },
+    {
+      "txn_id": "TXN1039",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1040",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1041",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1042",
+      "method": "tolerance",
+      "amount_diff": 1.0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1043",
+      "method": "tolerance",
+      "amount_diff": 2.5,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1044",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1045",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1046",
+      "method": "tolerance",
+      "amount_diff": 3.75,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1047",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1048",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1049",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1051",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1052",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1053",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1054",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    },
+    {
+      "txn_id": "TXN1055",
+      "method": "exact",
+      "amount_diff": 0,
+      "date_diff": 0
+    }
+  ],
+  "exception_detail": [
+    {
+      "txn_id": "TXN1003",
+      "type": "missing_in_ledger",
+      "bank": {
+        "txn_id": "TXN1003",
+        "date": "2026-08-22",
+        "amount": 63086.42,
+        "description": "NEFT Settlement"
+      }
+    },
+    {
+      "txn_id": "TXN1005",
+      "type": "missing_in_ledger",
+      "bank": {
+        "txn_id": "TXN1005",
+        "date": "2026-08-04",
+        "amount": 18974.91,
+        "description": "UPI/Merchant Payout"
+      }
+    },
+    {
+      "txn_id": "TXN1007",
+      "type": "missing_in_bank",
+      "ledger": {
+        "txn_id": "TXN1007",
+        "date": "2026-08-08",
+        "amount": 38458.16,
+        "description": "Refund Processed"
+      }
+    },
+    {
+      "txn_id": "TXN1015",
+      "type": "missing_in_ledger",
+      "bank": {
+        "txn_id": "TXN1015",
+        "date": "2026-08-03",
+        "amount": 47147.43,
+        "description": "Vendor Payment"
+      }
+    },
+    {
+      "txn_id": "TXN1019",
+      "type": "missing_in_bank",
+      "ledger": {
+        "txn_id": "TXN1019",
+        "date": "2026-08-13",
+        "amount": 23988.77,
+        "description": "Vendor Payment"
+      }
+    },
+    {
+      "txn_id": "TXN1022",
+      "type": "missing_in_ledger",
+      "bank": {
+        "txn_id": "TXN1022",
+        "date": "2026-08-21",
+        "amount": 54155.67,
+        "description": "Subscription Renewal"
+      }
+    },
+    {
+      "txn_id": "TXN1024",
+      "type": "duplicate_in_ledger",
+      "bank": {
+        "txn_id": "TXN1024",
+        "date": "2026-08-30",
+        "amount": 54579.98,
+        "description": "Subscription Renewal"
+      },
+      "ledger_count": 2,
+      "note": "possible double-entry; needs manual dedupe"
+    },
+    {
+      "txn_id": "TXN1037",
+      "type": "missing_in_bank",
+      "ledger": {
+        "txn_id": "TXN1037",
+        "date": "2026-08-26",
+        "amount": 58000.66,
+        "description": "NEFT Settlement"
+      }
+    },
+    {
+      "txn_id": "TXN1050",
+      "type": "duplicate_in_ledger",
+      "bank": {
+        "txn_id": "TXN1050",
+        "date": "2026-08-08",
+        "amount": 5394.68,
+        "description": "NEFT Settlement"
+      },
+      "ledger_count": 2,
+      "note": "possible double-entry; needs manual dedupe"
+    }
+  ]
+}

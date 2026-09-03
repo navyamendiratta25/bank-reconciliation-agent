@@ -1,0 +1,3 @@
+# no external deps required beyond Python stdlib
+# uncomment if you want a nicer HTTP client than urllib
+# requests
